@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 📫 How to reach me **sajakbasnet77@gmail.com**
+- 📫 Contact me **sajakbasnet77@gmail.com**
 
 - ⚡ Fun fact **I spend most of my time sleeping.**
 
