@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sajak</h1>
+<h1 align="center">Hi 👋, I'm Sajak (Axe)</h1>
 <h3 align="center">A passionate Learner</h3>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Backend Development**
 
-- 📫 Contact me **sajakbasnet77@gmail.com**
+- 📫 Contact me at **sajakbasnet77@gmail.com**
 
 - ⚡ Fun fact **I spend most of my time sleeping.**
 
