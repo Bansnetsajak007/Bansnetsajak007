@@ -41,15 +41,12 @@ Passionate about Machine Learning, AI, and building intelligent systems that mak
 
 ## 🌎 Connect with Me  
 <p align="center">  
-  <a href="https://twitter.com/your_twitter_handle" target="_blank">  
+  <a href="https://x.com/imBrogrammer" target="_blank">  
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>  
   </a>  
-  <a href="https://www.linkedin.com/in/your_linkedin_handle" target="_blank">  
+  <a href="https://www.linkedin.com/in/sajak-basnet-7b2792353" target="_blank">  
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>  
-  </a>  
-  <a href="https://github.com/your_github_handle" target="_blank">  
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>  
-  </a>  
+  </a>   
 </p>  
 
 ---
