@@ -7,11 +7,10 @@ Passionate about Machine Learning, AI, and building intelligent systems that mak
 ## 🚀 About Me  
 
 - 🔭 I’m currently working on **Deep Learning & AI-powered projects**  
-- 📖 Exploring **Neural Networks, Computer Vision, and NLP**  
-- 🌱 Learning **Advanced ML, WebRTC, and Distributed Computing**  
-- 🎯 Goal: **Become a top-tier AI Engineer & contribute to AI research**  
-- 💬 Ask me about **Machine Learning, Data Science, and Web Development**  
-- ⚡ Fun fact: **I turn coffee into AI models! ☕🤖**  
+- 📖 Exploring **ML Algorithms, Mathematical intution**  
+- 🌱 Learning **Advanced ML,And Understandin thre working**  
+- 🎯 Goal: **Become a top-tier AI Engineer & contribute to AI research**    
+- ⚡ Fun fact: **I spend most of my time sleeping 🛌**  
 
 ---
 
