@@ -7,8 +7,8 @@ Passionate about Machine Learning, AI, and building intelligent systems that mak
 ## 🚀 About Me  
 
 - 🔭 I’m currently working on **Deep Learning & AI-powered projects**  
-- 📖 Exploring **ML Algorithms, Mathematical intution**  
-- 🌱 Learning **Advanced ML,And Understandin thre working**  
+- 📖 Exploring **ML Algorithms, Core Mathematics Behind Algorithms**  
+- 🌱 Learning **Machine Learning**  
 - 🎯 Goal: **Become a top-tier AI Engineer & contribute to AI research**    
 - ⚡ Fun fact: **I spend most of my time sleeping 🛌**  
 
