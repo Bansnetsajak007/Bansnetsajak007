@@ -10,7 +10,7 @@ Passionate about Machine Learning, AI, and building intelligent systems that mak
 - 📖 Exploring **ML Algorithms, Core Mathematics Behind Algorithms**  
 - 🌱 Learning **Machine Learning**  
 - 🎯 Goal: **Become a top-tier AI Engineer & contribute to AI research**    
-- ⚡ Fun fact: **I spend most of my time sleeping 🛌**  
+- ⚡ Fun fact: **I love listening to classic rock form the 70's, 80's and 90's 🛌**  
 
 ---
 
