@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Sajak. 👨‍💻  
+# I'm Sajak. 👨‍💻  
 
 Passionate about Machine Learning, AI, and building intelligent systems that make a difference. 🚀 Always learning, coding, and innovating.  
 
